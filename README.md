@@ -7,4 +7,4 @@ Javascript
 
 Libraries used: 
 Minimist
-puppeteer
+puppeteer.js
